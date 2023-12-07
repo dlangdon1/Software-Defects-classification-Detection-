@@ -16,6 +16,7 @@ Software Defects Binary Classification Presentation.pptx contains the presentati
 
 Inside Data folder, inside the folder labeled Base_Models contains all 11 baseline models accuracy scores, f1 scores, Training Scores and Validation Scores.
 
+
 Baseline Accuracy Scores --> Base_Accuracy_Scores.csv
 
 Baseline F1 Scores --> Base_F1_Scores.csv
@@ -24,7 +25,9 @@ Baseline Training Scores --> Base_Training_Scores.csv
 
 Baseline Validation Scores -->  Base_Validation_Scores.csv
 
+
 Inside Data folder contains all 11 optimized models accuracy scores, f1 scores, Training Scores and Validation Scores using the respective hyperparameters
+
 
 Gaussian Naive Bayes -->  Gaussian_NB folder 
 
