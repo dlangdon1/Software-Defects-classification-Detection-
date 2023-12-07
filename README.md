@@ -10,7 +10,7 @@ Hypermeters used Gaussian Naive Baye Variance Smoothing for Gaussian Naive Bayes
 
  Both the Baseline and optimized models were evaluated all using ROC AUC Score, Average Training ROC AUC Score, Average Validation ROC AUC Score, Average Accuracy, and Average F1 Score as metrics. The held-out validation set was the test data which was labelled using each model.
  
-The Software Defects Binary Classification .ipynb contains the code used to preprocess the training data, perform data exploration, preprocessing, train/val split, cross validation evaluate the various models, using metrices mentioned above and lastly label the validation dataset.
+The Software_Defects_Binary_Classification.ipynb contains the code used to preprocess the training data, perform data exploration, preprocessing, train/val split, cross validation evaluate the various models, using metrices mentioned above and lastly label the validation dataset.
 
 Software Defects Binary Classification Presentation.pptx contains the presentation which illustrates the process throughout this project
 
